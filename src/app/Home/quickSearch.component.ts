@@ -5,8 +5,8 @@ import { HomeService } from '../services/Home.service';
 
 @Component({
     selector: 'app-quickSearch',
-    templateUrl: './quicksearch.component.html',
-    styleUrls: ['./quicksearch.component.css']
+    templateUrl: './quickSearch.component.html',
+    styleUrls: ['./quickSearch.component.css']
 })
 
 export class QuickSearchComponent implements OnInit {
