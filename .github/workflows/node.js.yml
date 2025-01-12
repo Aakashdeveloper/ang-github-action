@@ -36,5 +36,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: angular-github-actions-build
-        path: dist/production
+        path: dist/zomapp
     
